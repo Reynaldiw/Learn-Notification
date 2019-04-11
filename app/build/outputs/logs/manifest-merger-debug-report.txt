@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/deb286db5b4a29f351bad0de277c4db0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/021234b65d7d6a6d04552494aaab1893/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3cd22ec909d9642154ecf4ccbab3eb8f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/28b9256b1b03fe12d7c795444468030b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/819fbbe98da56051967f4c10a17b0997/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/75fbd98b207241da4955d66ea09f7155/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/75c8a6691e8a1446e26c8b0348fe518c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/da8adf12abd6ec08c8aae9ceaa736a9d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5b62a897748426ce5ddb5cdda35507c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2a4e28a22500af222018413f41e70e40/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a4c4e444657870af75e40ac07ed9b23c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/d3a906e7021d3801587a1639cd584c0a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a25981a6ee0199288926016425ff3378/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f80c577e2429e191e1397a24d21c2b11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/98b660b0df944d7d3b04a00e8e6a64de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/db8a08309745551a9114d278ffa95264/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0c771aa43d0afcd13ea4b012e5a72f6a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e24ce1bc2de42b03a07377efd51e4312/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/003cb3a9e580172fe9a3f5efab4aee22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fb21f9c41be1e0ec3baac59468ddcff5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a86a4b362e24128e78551651b7e73155/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7eab9f8efa82a6eca12fbed2769f9fd1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/eff548bab253cc65527816975619f7ff/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2b1dff5efb03a83dd4cd41fee313a576/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b60c7e19ce6ef7cec213e4f0831f53b7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6abeb3e12cf9122304323ae375db979d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/05b2fc953adb4527c42183db9cc5d22d/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml
+		ADDED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml
+		ADDED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/021234b65d7d6a6d04552494aaab1893/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/021234b65d7d6a6d04552494aaab1893/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/db8a08309745551a9114d278ffa95264/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/db8a08309745551a9114d278ffa95264/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0c771aa43d0afcd13ea4b012e5a72f6a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0c771aa43d0afcd13ea4b012e5a72f6a/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/db8a08309745551a9114d278ffa95264/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.reynaldiwijaya.simplenotification.MainActivity
+ADDED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml
+INJECTED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/deb286db5b4a29f351bad0de277c4db0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/deb286db5b4a29f351bad0de277c4db0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/021234b65d7d6a6d04552494aaab1893/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/021234b65d7d6a6d04552494aaab1893/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3cd22ec909d9642154ecf4ccbab3eb8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3cd22ec909d9642154ecf4ccbab3eb8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/28b9256b1b03fe12d7c795444468030b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/28b9256b1b03fe12d7c795444468030b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/819fbbe98da56051967f4c10a17b0997/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/819fbbe98da56051967f4c10a17b0997/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/75fbd98b207241da4955d66ea09f7155/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/75fbd98b207241da4955d66ea09f7155/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/75c8a6691e8a1446e26c8b0348fe518c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/75c8a6691e8a1446e26c8b0348fe518c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/da8adf12abd6ec08c8aae9ceaa736a9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/da8adf12abd6ec08c8aae9ceaa736a9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5b62a897748426ce5ddb5cdda35507c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5b62a897748426ce5ddb5cdda35507c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2a4e28a22500af222018413f41e70e40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2a4e28a22500af222018413f41e70e40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a4c4e444657870af75e40ac07ed9b23c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a4c4e444657870af75e40ac07ed9b23c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/d3a906e7021d3801587a1639cd584c0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/d3a906e7021d3801587a1639cd584c0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a25981a6ee0199288926016425ff3378/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a25981a6ee0199288926016425ff3378/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f80c577e2429e191e1397a24d21c2b11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f80c577e2429e191e1397a24d21c2b11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/98b660b0df944d7d3b04a00e8e6a64de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/98b660b0df944d7d3b04a00e8e6a64de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/db8a08309745551a9114d278ffa95264/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/db8a08309745551a9114d278ffa95264/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0c771aa43d0afcd13ea4b012e5a72f6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0c771aa43d0afcd13ea4b012e5a72f6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e24ce1bc2de42b03a07377efd51e4312/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e24ce1bc2de42b03a07377efd51e4312/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/003cb3a9e580172fe9a3f5efab4aee22/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/003cb3a9e580172fe9a3f5efab4aee22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fb21f9c41be1e0ec3baac59468ddcff5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fb21f9c41be1e0ec3baac59468ddcff5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a86a4b362e24128e78551651b7e73155/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a86a4b362e24128e78551651b7e73155/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7eab9f8efa82a6eca12fbed2769f9fd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7eab9f8efa82a6eca12fbed2769f9fd1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/eff548bab253cc65527816975619f7ff/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/eff548bab253cc65527816975619f7ff/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2b1dff5efb03a83dd4cd41fee313a576/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2b1dff5efb03a83dd4cd41fee313a576/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b60c7e19ce6ef7cec213e4f0831f53b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b60c7e19ce6ef7cec213e4f0831f53b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6abeb3e12cf9122304323ae375db979d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6abeb3e12cf9122304323ae375db979d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/05b2fc953adb4527c42183db9cc5d22d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/reynaldiwijaya/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/05b2fc953adb4527c42183db9cc5d22d/AndroidManifest.xml:20:5-44
+INJECTED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml
+INJECTED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml
+		ADDED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml
+		ADDED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/reynaldiwijaya/Documents/BelajarAndroidSemester2/SimpleNotification/app/src/main/AndroidManifest.xml
